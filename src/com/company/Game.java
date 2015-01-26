@@ -160,5 +160,7 @@ public class Game
         {
             pl.clearHand();
         }
+
+        dealer.clearHand();
     }
 }
